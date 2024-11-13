@@ -1,0 +1,65 @@
+# compiled output
+/**/dist
+/**/dist2sfdc
+/**/tmp
+/**/out-tsc
+/**/compressed
+/out
+/auth/sfdc-user.json
+/auth/tokens.json
+/**/tsconfig.tsbuildinfo
+/**/.env
+/src/*/*-server/public
+
+yarn.lock
+
+# dependencies
+/**/node_modules
+
+# IDEs and editors
+.sfdx
+.vim-force.com
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+/*.code-workspace
+
+# misc
+/.angular/cache
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+debug.log
+testem.log
+/typings
+/**/.sparklink
+
+# e2e
+/**/e2e/*.js
+/**/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+
+.nx/cache
+.nx/workspace-data
+
+
+/repository
+/zips
